@@ -6,8 +6,8 @@
         "avatar": "https://uploaddeimagens.com.br/images/003/397/634/original/image1.png?1629862925",
         "latitude": "-23.5530907",
         "distance": 0.691000000000108,
-        "longitude": "-46.6682795",
-        "stars": 4.5    
+        "longitude": "-46.6682795"
+           
     },
     {
         "id": "2",
@@ -15,8 +15,8 @@
         "avatar": "https://uploaddeimagens.com.br/images/003/397/638/original/image2.png?1629863107",
         "latitude": "-23.5730907",
         "distance": 0.691000000000108,  
-        "longitude": "-46.6682795",
-        "stars": 2.9   
+        "longitude": "-46.6682795"
+          
     },
     {
         "id": "3",
@@ -24,8 +24,8 @@
         "avatar": "https://uploaddeimagens.com.br/images/003/397/640/original/image3.png?1629863156",
         "latitude": "-23.5530907",
         "distance": 1.4430774243756335,
-        "longitude": "-46.6482795",
-        "stars": 3.3
+        "longitude": "-46.6482795"
+    
 
     },
     {
@@ -34,7 +34,8 @@
         "avatar": "https://uploaddeimagens.com.br/images/003/397/641/original/image4.png?1629863203",
         "latitude": "-23.5830907", 
         "distance": 1.5201936184696858,
-        "longitude": "-46.6582795"  
+        "longitude": "-46.6582795"
+        
 
     }],
 
